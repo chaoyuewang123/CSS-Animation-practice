@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+
+    height: 100vh;
+    background-color: black;
+    height: 100vh;
+    width: 100vw;
+}
+/* .App{
+    background-image: url('./asset/background-image/download.jpeg');
+    background-color: black;
+    background-image: linear-gradient(red, black);
+    margin-bottom: 70vh;
+
+} */
+
+
+
+h1{
+    color:red;
+    font-size: 4vw;
+    text-align: center;
+}
+
